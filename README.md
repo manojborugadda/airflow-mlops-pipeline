@@ -1,4 +1,4 @@
-﻿# end-to-end-mlops-pipeline
+﻿# mlops-pipeline
 
 This repository contains an example end-to-end MLOps pipeline orchestrated with Apache Airflow. The README below follows the steps demonstrated in the referenced tutorial video and shows how to prepare, containerize, and schedule a machine learning pipeline using Airflow.
 
